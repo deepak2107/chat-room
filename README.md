@@ -25,30 +25,33 @@ A real time chat app built from scratch using SocketIO
 
 ### *Running locally ( production server )*
 #### `Step 1` - clone the repo
+```
 bash
 $ git clone https://github.com/deepak2107/chat-room_backend/
+
 $ git clone https://github.com/deepak2107/chat-room/
+```
 
 #### `Step 2` - cd in the repo
-
+```
 bash
 $ cd chat-room_backend
-
+```
 #### `Step 3` - install dependencies
-
+```
 bash
 $ npm install
-
+```
 #### `Step 4` - Start the server
-
+```
 bash
 $ npm start
-
+```
 #### `Step 5` - run application
-
+```
 bash
 $ cd ../chat-room && index.html
-
+```
 
 In browser, open [index.html](index.html)
 
